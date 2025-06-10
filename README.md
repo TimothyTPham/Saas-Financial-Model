@@ -1,4 +1,4 @@
-# Saas-Financial-Model
+# SaaS-Financial-Model
 This is a simplified SaaS financial model for an early-stage B2B subscription startup. Built in Google Sheets, it projects customer growth, revenue, and churn over 12 months, and calculates key SaaS metrics.
 
 ## What's Included:
